@@ -1,0 +1,24 @@
+// abstracts
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+// vendors
+// @import 'vendors/bootstrap-5.1.0/bootstrap';
+
+// base
+@import 'base/typography';
+
+// reset
+@import 'base/reset';
+
+// layout
+@import 'layout/grid';
+@import 'layout/container';
+@import 'layout/navigation';
+@import 'layout/contenido';
+@import 'layout/footer';
+
+// components
+@import 'components/noticias';
+@import 'components/listado-izquierdo';
+@import 'components/newsletter';
+ 
